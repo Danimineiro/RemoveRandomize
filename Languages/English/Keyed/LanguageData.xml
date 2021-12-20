@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<RRUseWidgetsPatch>Use Widgets Patch</RRUseWidgetsPatch>
+	<RRUseCCUPatch>Use Character Card Utility Patch</RRUseCCUPatch>
+
+	<RRLabelDesc>The widgets patch removes ALL buttons with this text: {0}\nThe character card utility patch in comparison will remove only the specific {0} button that was requested to be removed, but will also cause some sideeffects to occur in the GUI where the button was removed.</RRLabelDesc>
+	<RRSettingsCategoryName>[DN] Remove Randomize Button</RRSettingsCategoryName>
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[DN] Remove Randomize Button</name>
+	<author>Danimineiro</author>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>dani.removeRandomize</packageId>
+	<description>
+		Removes the randomize button during character creations
+	</description>
+</ModMetaData>
